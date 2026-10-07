@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nadia 👋
 
-<!--
-**nadiasani-ai/nadiasani-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer specializing in applied AI and production ML systems.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Machine Learning & Deep Learning
+- Computer Vision & YOLO
+- LLMs & Document Intelligence
+- MLOps & Production AI
+- AI Solution Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building production-ready AI systems and exploring Agentic AI,
+LLM evaluation, observability, and scalable ML architectures.
